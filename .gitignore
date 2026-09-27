@@ -1,0 +1,18 @@
+# Large Datasets (over 100MB limit on GitHub)
+dataset/
+output/
+*.tsv
+*.zip
+team_ml_resolvers_*/output/
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+.DS_Store
+
+# Virtual environments
+venv/
+.env/
